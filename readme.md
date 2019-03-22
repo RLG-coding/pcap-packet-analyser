@@ -1,10 +1,10 @@
 ﻿Network packet analyser. Made using the PCAP library in C.
 
 .compile.
-$ make
+  $ make
 
 .execute.
-$ ./analyzer <options>
+  $ ./analyzer <options>
 
 .options.
   -i <interface> : interface to use for the live analysis
